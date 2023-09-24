@@ -6,7 +6,7 @@
   overflow-y: scroll;
   bottom: 0;
   top: 56px;
-  background: white;
+  background: rgb(183, 189, 144);
   text-align: center;
   /* visibility: hidden; */
 
@@ -99,3 +99,13 @@
       height: 380px;
   }
 }       
+
+.mdl-layout__content {
+  background-color:rgb(64, 68, 64);
+}
+
+
+.page-content p {
+  text-align: center;
+  color: rgb(212, 219, 196);
+}
