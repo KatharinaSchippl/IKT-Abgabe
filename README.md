@@ -15,7 +15,7 @@ Mit Ottgramm bekommst du einen Ort, an dem du deine Pflanzenliebe mit deinen Fre
 Spring jetzt mit auf den Zug!
 
 ### Screenshot
-![Image text]![Screenshot 2023-09-25 202906](https://github.com/KatharinaSchippl/IKT-Abgabe/assets/82724771/7022f4c1-fca9-461a-87f3-a94ed9db8ea9)
+![Screenshot 2023-09-25 202906](https://github.com/KatharinaSchippl/IKT-Abgabe/assets/82724771/7022f4c1-fca9-461a-87f3-a94ed9db8ea9)
 
 
 ## Technologies
