@@ -4,8 +4,7 @@ PWA 2023
 1. [Ottgramm](#Ottgramm)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
+4. [UserGuideBook] (#userguidebook)
 
 ### Ottgramm
 ***
@@ -25,8 +24,6 @@ Folgende Programme finden sich in der Entwicklung wieder:
 *[Node.js]
 *[MongoDB]
 *[express.js]
-
-
 
 ## Installation
 ***
