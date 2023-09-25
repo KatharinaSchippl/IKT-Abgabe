@@ -22,9 +22,9 @@ Spring jetzt mit auf den Zug!
 ***
 Folgende Programme finden sich in der Entwicklung wieder:
 
-Node.js
-MongoDB
-express.js
+*[Node.js]
+*[MongoDB]
+*[express.js]
 
 
 
